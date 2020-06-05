@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>624712646497-q2oc1hkvsrh823mk0b96og6f8kp0fq85.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.624712646497-q2oc1hkvsrh823mk0b96og6f8kp0fq85</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDPXzD_aCeeIDZ7-IxK6T1jLvzeBUpJ7_w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>624712646497</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gissa.strawberry</string>
+	<key>PROJECT_ID</key>
+	<string>strawberry-bc6e4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>strawberry-bc6e4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:624712646497:ios:fa0f7cbcbdaaaf2e070f20</string>
+	<key>DATABASE_URL</key>
+	<string>https://strawberry-bc6e4.firebaseio.com</string>
+</dict>
+</plist>
